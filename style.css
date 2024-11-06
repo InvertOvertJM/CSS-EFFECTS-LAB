@@ -1,0 +1,56 @@
+#roundButton{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#roundImage{
+    border-radius:100px;
+}
+
+#roundDiv{
+    padding: 20px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+body{
+    background-image: linear-gradient(rgb(210, 110, 110), white);
+}
+
+#gradientSection{
+    background-image: linear-gradient(to right, cyan, yellow);
+}
+
+#radialGradient{
+    padding:20px;
+    background-image: radial-gradient(cyan,yellow);
+}
+
+#cardShadow{
+    padding:15px;
+    background-color: azure;
+    box-shadow: -5px 5px 5px;
+}
+
+#halfShadow{
+    box-shadow: 15px 5px 5px red;
+}
+
+#buttonShadow{
+    padding: 20px;
+    box-shadow: 0px 5px 5px blue;
+}
+
+#tranImg{
+    border: 5px solid black;
+    opacity: 0.5;
+}
+
+#tranBtn{
+    padding: 20px;
+    opacity:0.8;
+}
+
+#tranText{
+    opacity:0.2;
+}
